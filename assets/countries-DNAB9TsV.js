@@ -1,0 +1,1 @@
+const e={France:{countryName:"프랑스",flag:"🇫🇷",memories:[{bg_image:"/images/france/0/34.jpg",date:"2025.07.04",location:"첫 파리 여행 ✈️",message:"파리에서 함께한 모든 순간이 로맨틱 했어 💫💫",public:!0}]},Germany:{countryName:"독일",flag:"🇩🇪",memories:[{bg_image:"/images/france/icon.jpeg",date:"2023.10.03",location:"기센",message:"여름이었다. 🍁",public:!0}]}};export{e as c};
